@@ -29,7 +29,7 @@
     font-weight: bold;
     text-decoration: none;
     color: #005FAC;
-    padding: 15px 20px;
+    padding: 20px 30px;
     border-radius: 5px;
     background: white;
     display: inline-block;
@@ -146,4 +146,7 @@ footer{
     border-radius: 5px;
     font-weight: bold;
     font-size: 15px;
+}
+.subscribe_btn:hover{
+    cursor: pointer;
 }
